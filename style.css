@@ -1,0 +1,20 @@
+main {
+    background: url('./assets/vippng.com-crt-tv-png-3757462.png') no-repeat;
+    background-size: 100%; 
+    float: left;
+    height: 100%;
+    width: 100%;
+    width:100%;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    overflow:hidden;
+    
+}
+
+nav {
+    background-color: white;
+    height: 120px;
+    padding-top: 20px;
+}
